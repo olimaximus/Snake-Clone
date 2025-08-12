@@ -16,6 +16,7 @@ This is a fully playable version of **Snake**, featuring:
 - Score tracking
 
 Built entirely in **C#**, this game uses **Windows Presentation Foundation (WPF)** for the UI, providing a responsive and scalable interface.
+
 ---
 
 ## 🛠️ Features
